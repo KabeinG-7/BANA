@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:banap/base_scaffold.dart';
 
 class VolunteerOpportunity extends StatelessWidget {
-  const VolunteerOpportunity({Key? key}) : super(key: key);
+  const VolunteerOpportunity({super.key});
 
   @override
   Widget build(BuildContext context) {

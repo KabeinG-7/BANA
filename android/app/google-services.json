@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098070769327",
+    "project_id": "bana-be51d",
+    "storage_bucket": "bana-be51d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098070769327:android:b1cd671d61e8c3439c1e5a",
+        "android_client_info": {
+          "package_name": "com.example.banap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaCY68cNt-Lhvi4ACwENMW8YjVvGY0-yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
